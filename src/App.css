@@ -1,0 +1,55 @@
+.Combobox {
+    height: 100px;
+    width: 100px;
+}
+.container {
+    background-color: #f5f5f5;
+    padding: 20px;
+  }
+  
+  .heading {
+    color: rgb(54, 126, 126);
+  }
+  
+  .button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+  
+  .background-image {
+    /* background-image: url('path/to/your/image.jpg'); */
+    background-size: cover;
+    background-position: center;
+  }
+  
+
+.h1 {
+  color: #f5f5f5;
+}
+
+
+.rectangle-button {
+  background-color: white;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.rectangle-button:hover {
+  background-color: green;
+  color: white;
+}
