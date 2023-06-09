@@ -1,2 +1,8 @@
 python-binance
+requests
+pandas
+pandas_ta
+Flask-Cors
+Flask
+pymongo
 git+https://github.com/StreamAlpha/tvdatafeed.git 
